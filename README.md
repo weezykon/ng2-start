@@ -2,10 +2,10 @@
 angular 2 quickstart
 ![ng2-start](https://cloud.githubusercontent.com/assets/586490/25270467/b98e3780-2678-11e7-8925-efa5968bc38d.JPG)
 
-To start<br/>
+<h3>To start</h3>
 #npm install
 
-To view/ Launch Browser<br/>
+<h3>To view/ Launch Browser</h3>
 #npm start
 
 Dependencies:
